@@ -1,5 +1,9 @@
 # Ravin Anderson CS52 Short Assignment 1
 
+Spring 2021
+Domain Name: ravin-anderson.me
+Created a website using only HTML5.
+Included some bare bones headings, a hyperlink, a button, a bulleted list, and a table.
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
 Time spent: **X** hours spent in total
